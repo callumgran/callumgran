@@ -5,3 +5,5 @@
 - 📫 How to reach me: callum.gran@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: My name was supposed to be Cameron 🙄
+
+![enter image description here](https://github-readme-stats.vercel.app/api?username=callumgran&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
