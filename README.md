@@ -1,7 +1,7 @@
 ### Hello, I'm Callum Gran 👋
 ![](https://komarev.com/ghpvc/?username=callumgran)
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Typescript and React
+- 🌱 I’m currently learning Django, Typescript and React
 - 📫 How to reach me: callum.gran@gmail.com
 - ⚡ Fun fact: My name was supposed to be Cameron
 
